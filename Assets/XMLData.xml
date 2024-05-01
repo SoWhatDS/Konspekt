@@ -1,0 +1,5 @@
+<Player>
+  <PlayerName value="SaveDataTest" />
+  <PlayerHealth health="100" />
+  <PlayerDead isDead="False" />
+</Player>
