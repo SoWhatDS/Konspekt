@@ -8,6 +8,7 @@ namespace ObservableCollectionTest
 {
     public class ObservableCollectionTest : MonoBehaviour
     {
+        //то же самое что и List<T> , за исключением возможности известить внешние объекты о том, что коллекция была изменена
         private ObservableCollection<User> _users;
 
         private void Start()
